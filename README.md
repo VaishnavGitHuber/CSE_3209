@@ -10,3 +10,8 @@
   3. KeyBoard ShortCuts
   4. Get text
   5. Message Box
+#### 3. CALCULATOR
+  * ACTIVITIES USED
+    1. SWITCH CASE
+    2. input dialogue
+    3. Message box
